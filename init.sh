@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 source ${PWD}/scripts/utils.sh
 source ${PWD}/scripts/prep-env.sh
